@@ -22,4 +22,9 @@ Power BI : Creating reports
 
 # Data Analysis and Visualization :
 For every month between the year 2019-2021, exploratory data analysis included examining the data to answer key questions such as :
+1. Sales by top 10 customers and sales by top 10 products(represented by a stacked bar graph).
+2. A KPI which indicates sales and list budget and sales/budget simultaneously.
+3. A map which describes sales by customer city.
+4. A donut chart which indicates sales by product category
+   
 
